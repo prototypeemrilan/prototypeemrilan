@@ -13,7 +13,7 @@ switch (home) {
         alert('Дружище подожди немжнока')
         break;
     case 'green':
-        alert('Друш можешь идти')
+         alert('Друш можешь идти')
         break;
     default:
         alert('undefined')
